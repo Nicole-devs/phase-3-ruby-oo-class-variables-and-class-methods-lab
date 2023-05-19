@@ -42,7 +42,8 @@ end
 
 
 
-    # def self.genre_count
+    # hash-method
+    #  def self.genre_count
     #     genre_histogram = {}
     #     @@genres.each do |genre|
     #         if genre_histogram [genre]
