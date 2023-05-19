@@ -14,7 +14,7 @@ class Song
         @@artists << artist
     end
 
-    
+
     def self.count
         @@count
     end
@@ -40,4 +40,5 @@ class Song
             end
         end
         genre_histogram
+        end
 end
